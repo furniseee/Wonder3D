@@ -8,7 +8,7 @@ validation_dataset:
   img_wh: [256, 256]
   num_validation_samples: 1000
   crop_size: 192
-  filepaths: ['fabric-chair.png', 'modern-chair.png', 'black-chair.png', 'armchair.png']  # the test image names. leave it empty, test all images in the folder
+  filepaths: ['armchair1.png', 'armchair2.png', 'armchair3.png', 'armchair4.png', 'armchair5.png', 'armchair6.png', 'armchair7.png']  # the test image names. leave it empty, test all images in the folder
 
 save_dir: 'outputs/'
 
